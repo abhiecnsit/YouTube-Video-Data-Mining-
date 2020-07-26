@@ -1,5 +1,5 @@
 # YouTube-Video-Data-Mining-
-Collect different features of a video on YouTube using YouTube API.
+Collect different informations about a video on YouTube using YouTube API.
 ## Task:
 Collect video url, view count, comment(first 10), comments count, likes count, dislikes count of random 500 videos on YouTube. 
 
